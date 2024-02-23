@@ -1,3 +1,6 @@
+
+@import url()
+
 :root{
     --cor-de-fundo:rgba(80, 67, 255, 1);
     --botao-inativo:rgba(179, 179, 179, 0.2);
@@ -6,7 +9,7 @@
     --cor-do-titulo:rgba(111, 255, 87, 1);
     --cor-do-subtitulo:rgba(255, 255, 255, 1);
     --cor-letrinha:rgba(255, 255, 255, 1);
-    
+
 
 
 
