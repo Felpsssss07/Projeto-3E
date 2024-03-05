@@ -10,7 +10,7 @@
     --cor-do-subtitulo:rgba(255, 255, 255, 1);
     --cor-letrinha:rgba(255, 255, 255, 1);
 
-
-
-
+}
+body{
+    background-color: var(--cor-de-fundo);
 }
