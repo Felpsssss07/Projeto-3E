@@ -47,7 +47,7 @@ body{
     width: 100%;Escola
     ￼Profissional
     ￼Chamado
-    ￼Corpo
+    ￼Academia
     border-bottom: 4px solid var(--botao-ativo);
     border-left: 2px solid var(--botao-ativo);
     border-right: 2px solid var(--botao-ativo);
@@ -69,6 +69,6 @@ body{
     .botao:last-child{
         border-radius: 0 40px 0 0;
     }
-    
+
     
 }
