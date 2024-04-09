@@ -62,7 +62,7 @@ body{
     border-bottom: 4px solid var(--botao-ativo);
 }
 abas-textos{
-    backgroealizar 4 cursos no Aluraund-color: var(--cor-de-fundo);
+    background-color: var(--cor-do-subtitulo);
     padding: 40px;
     border-radius: 0 0 40px 40px;
     }
