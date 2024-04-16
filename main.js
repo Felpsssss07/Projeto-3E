@@ -11,10 +11,13 @@ for(let i = 0; i<botoes.length; i++) {
         
         botoes[i].classList.add("ativo");
         textos[i].classList.add("ativo");
+        botoes [i].onclick = function(){
+        
+        }
     }
 }
 const contadores = document.querySelectorAll(".contador");
-const tempoObjetivo = new Date("2025-01-28T00:00:00");
+const tempoObjetivo = new Date("2024-12-28T00:00:00");
 1et tempoAtual = new Date();
 
 contadores[0].textContent = tempoObjetivo1 - tempoAtual;
