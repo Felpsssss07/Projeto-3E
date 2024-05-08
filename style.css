@@ -61,7 +61,7 @@ body{
     background-color: var(--botao-ativo);
     border-bottom: 4px solid var(--botao-ativo);
 }
-abas-textos{enrico miranda
+.abas-textos{
     background-color: var(--cor-do-subtitulo);
     padding: 40px;
     border-radius: 0 0 40px 40px;
