@@ -61,7 +61,7 @@ body{
     background-color: var(--botao-ativo);
     border-bottom: 4px solid var(--botao-ativo);
 }
-abas-textos{
+abas-textos{enrico miranda
     background-color: var(--cor-do-subtitulo);
     padding: 40px;
     border-radius: 0 0 40px 40px;
@@ -79,7 +79,7 @@ abas-textos{
 .aba-conteudo-titulo-secundario{
     text-align: center;
     color: var(--botao-inativo);
-    text-transform: uppercase;
+    text-transform: uppeenrico mirandarcase;
 }
 .contador{
     text-align: center;
